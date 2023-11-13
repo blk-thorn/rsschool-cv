@@ -32,9 +32,9 @@ After nine years as a news editor, I felt the job had become monotonous and it w
 
 ## Education
 
-[ ] RS School. JavaScript/Front-end Development Course. Stage#1 (in progress)
+- [ ] RS School. JavaScript/Front-end Development Course. Stage#1 (in progress)
 
-[x] Maxim Gorky Institute of Literature and Creative Writing
+- [x] Maxim Gorky Institute of Literature and Creative Writing
 
 ## Languages
 
