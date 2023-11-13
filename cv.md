@@ -4,40 +4,40 @@
 
 ## My Contacts
 
-> - **Phone:** +7-918-460-74-72
-> - **Email:** victoria.ternovaya@gmail.com
-> - **Telegram:** [@blk_thorn](https://t.me/blk_thorn)
-> - **GitHub:** [My portfolio](https://github.com/blk-thorn)
+- **Phone:** +7-918-460-74-72
+- **Email:** victoria.ternovaya@gmail.com
+- **Telegram:** [@blk_thorn](https://t.me/blk_thorn)
+- **GitHub:** [My portfolio](https://github.com/blk-thorn)
 
 ---
 
 ## Summary
 
-> Looking for a job or internship as a Junior Frontend Developer. Preferably remote.
+After nine years as a news editor, I felt the job had become monotonous and it was time to move on. I've tried myself in several areas, including 3D modeling and visualization, but I've always wanted to get into programming and now that I have the opportunity, I'd like to get enough of a background to get a position as a front-end developer.
 
 ---
 
 ## Skills
 
-> - [x] HTML
-> - [x] CSS
-> - [x] JavaScript
-> - [x] Git
-> - [x] VS Code
-> - [x] Figma
-> - [x] Photoshop
-> - [x] 3Ds Max, Substance Painter, Unreal Engine
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
+- [x] Git
+- [x] VS Code
+- [x] Figma
+- [x] Photoshop
+- [x] 3Ds Max, Substance Painter, Unreal Engine
 
 ---
 
 ## Education
 
-> [ ] RS School. JavaScript/Front-end Development Course. Stage#1 (in progress)
+[ ] RS School. JavaScript/Front-end Development Course. Stage#1 (in progress)
 
-> [x] Maxim Gorky Institute of Literature and Creative Writing
+[x] Maxim Gorky Institute of Literature and Creative Writing
 
 ## Languages
 
-> - English - B2
-> - Portuguese - A2
-> - Russian - native speaker
+- English - B2
+- Portuguese - A2
+- Russian - native speaker
