@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <div class="profile">
+            <div class="name__container"></div>
+            <img src="./img/avatar.jpg" alt="avatar" class="avatar">
+            <h1 class="profile__name">Victoria Ternovaya</h1>
+            <h2 class="profile__title">Would-be front-end developer</h2>
+
+        </div>
+        <nav class="nav__menu">
+            <ul class="nav__list">
+                <li class="nav__item"><a href="#summary">Summary</a></li>
+                <li class="nav__item"><a href="#education">Education</a></li>
+                <li class="nav__item"><a href="#projects">Projects</a></li>
+                <li class="nav__item"><a class="active" href="#github">GitHub</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <aside class="about">
+            <section class="contacts">
+                <h2 class="title">My contacts</h2>
+                <ul class="contacts__list">
+                    <li class="contacts__item">
+                        <a href="tel:+79184607472"><img src="./img/message-icon.png" alt="Phone"
+                                class="contact-icon">Phone</a>
+                    </li>
+                    <li class="contacts__item">
+                        <a href="mailto:victoria.ternovaya@gmail.com"><img src="./img/gmail-icon.png" alt="Email"
+                                class="contact-icon">Email</a>
+                    </li>
+                    <li class="contacts__item">
+                        <a href="https://t.me/blk_thorn"><img src="./img/telegram-icon.png" alt="Telegram"
+                                class="contact-icon">Telegram</a>
+                    </li>
+                    <li class="contacts__item">
+                        <a href="https://discordapp.com/users/1087805692188041347/"><img src="./img/discord-icon.png"
+                                alt="Discord" class="contact-icon">Discord</a>
+                    </li>
+                </ul>
+            </section>
+            <section class="skills">
+                <h2 class="title">Skills</h2>
+                <ul class="skills__list">
+                    <li class="skills__item"><img src="./img/html-icon.png" alt="" class="skills__icon">HTML</li>
+                    <li class="skills__item"><img src="./img/css-icon.png" alt="" class="skills__icon">CSS</li>
+                    <li class="skills__item"><img src="./img/js-icon.png" alt="" class="skills__icon">JavaScript</li>
+                    <li class="skills__item"><img src="./img/git-icon.png" alt="" class="skills__icon">Git</li>
+                    <li class="skills__item"><img src="./img/figma-icon.png" alt="" class="skills__icon">Figma</li>
+                </ul>
+            </section>
+            <section class="languages">
+                <h2 class="title">Languages</h2>
+                <ul class="languages__list">
+                    <li class="languages__item">English
+                        <p class="languages__item--level">Upper-intermediate</p>
+                    </li>
+                    <li class="languages__item">Portuguese
+                        <p class="languages__item--level">Pre-intermediate</p>
+                    </li>
+                    <li class="languages__item">Russian
+                        <p class="languages__item--level">Native</p>
+                    </li>
+                </ul>
+            </section>
+        </aside>
+        <section class="description">
+            <ul class="description__list">
+                <li class="description__item">
+                    <h2 id="summary" class="description__title">Summary</h2>
+                    <p class="description__text">I'm a freelance 3D modeler, but I've
+                        always been interested in programming. Even though it's challenging, but it allows you to build
+                        a
+                        problem-solving mindset, which can also be useful in other areas. So my goal is to get
+                        enough of a
+                        background to become a front-end developer.</p>
+                </li>
+                <li class="description__item">
+                    <h2 id="education" class="description__title">Education</h2>
+                    <ul class="education__list">
+                        <li class="education__item">
+                            <h3>Maxim Gorky Institute of Literature and Creative Writing</h3>
+                            <p><span>Specialty: </span>Literary creativity</p>
+                        </li>
+                        <li class="education__item">
+                            <h3>UHD Film and Television Training Center</h3>
+                            <p><span>Specialty: </span>Sound Engineering for Film and Television</p>
+                        </li>
+                    </ul>
+
+                </li>
+                <li class="description__item--project">
+                    <h2 id="projects" class="description__title">My projects</h2>
+                    <div class="project">
+                        <a href="https://github.com/blk-thorn/rsschool-cv"><img src="./img/cv-img.png" alt="cv"
+                                class="description__img"></a>
+                        <h3 class="project__title">Curriculum vitae</h3>
+                        <p class="project__text">Here's my
+                            first and most relevant project at the
+                            moment,<br> hope universe will not collapse.<br><span class="project__technologies">HTML,
+                                CSS</span></p>
+                        <button onclick="location.href='https://github.com/blk-thorn/rsschool-cv'"
+                            class="project__button">Source
+                            code</button>
+                    </div>
+                </li>
+                <li class="description__item">
+                    <h2 class="description__title">Code example</h2>
+                    <pre class="description__text">
+                <code><span class="code--violet">class</span> <span class="code--yellow">Solution</span>{
+                    <span class="code--violet"> static</span> <span class="code--blue">main</span>() {
+                     console.<span class="code--blue">log</span> (<span class="code--green">"Hello World!"</span>)
+                     }
+                     }</code>
+                    </pre>
+                </li>
+            </ul>
+        </section>
+    </main>
+    <footer class="footer">
+        <a id="github" href="https://github.com/blk-thorn" class="footer__link">
+            <img src="./img/github-icon.png" alt="github" class="footer__icon2">
+            <p class="footer__text">My GitHub</p>
+        </a>
+
+        <a href="https://rs.school/courses/javascript-preschool-ru" class="footer__link">
+            <img src="./img/rs-school-logo.svg" alt="rsschool" class="footer__icon">
+            <p class="footer__text"></p>
+        </a>
+        <h3 class="footer__text--year">2024</h3>
+    </footer>
+</body>
+
+</html>
