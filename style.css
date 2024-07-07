@@ -447,6 +447,10 @@ margin-left: 10px;
 color: rgb(96, 96, 96);
 }
 
+.footer__text--year {
+  align-self: center;
+}
+
 a {
   outline: none; 
   border: none;
