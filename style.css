@@ -401,6 +401,21 @@ white-space: nowrap;
 color: rgba(210, 210, 210, 0.8);
 }
 
+.code--violet {
+color: #6a5acd;  
+}
+
+.code--yellow {
+color: #ffa500;
+}
+
+.code--blue {
+color: #0284ff;
+}
+
+.code--green {
+color: #3cb371;
+}
 
 
 .footer {
@@ -409,9 +424,9 @@ flex-flow: row wrap;
 
 /* background: rgb(85, 85, 85); */
 /* background-color: #3cb371; */
-background-color: rgb(241, 180, 62);
+/* background-color: rgb(241, 180, 62); */
 /* background-color: rgb(130, 190, 195); */
-/* background-color: rgb(120, 185, 160); */
+background-color: rgb(120, 185, 160);
 height: 60px;
 justify-content: space-evenly;
 border-top: 2mm ridge rgb(25,25,25);
