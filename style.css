@@ -299,7 +299,7 @@ display: flex;
 justify-content: center;
 display: flex;
 justify-content: center;
-margin-bottom: 40px;
+margin-bottom: 30px;
 color: rgb(75, 75, 75);
 font-family: Open Sans;
 }
@@ -308,6 +308,7 @@ font-family: Open Sans;
 display: flex;
 flex-flow: column wrap;
 row-gap: 20px;
+margin-top: 35px;
 /* margin-top: 80px; */
 margin-left: 40px;
 justify-content: start;
@@ -319,7 +320,7 @@ line-height: 1.13rem;
 }
 
 .description__item {
-margin-top: 35px;
+/* margin-top: 35px; */
 justify-items: stretch;
 text-indent: 20px;
 line-height: 30px;
