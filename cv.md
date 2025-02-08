@@ -13,7 +13,7 @@
 
 ## Summary
 
-After nine years as a news editor, I felt like it was time to move on. I've tried myself in several areas, including 3D modeling and visualization, but I've always wanted to get into programming and now that I have the opportunity, I'd like to get enough of a background to get a position as a front-end developer.
+After nine years as a news editor, I felt like it was time to move on. I've tried myself in several areas, including 3D modeling and visualization. During this course I quickly realized that it was exactly what I wanted to pursue long-term and now that I have the opportunity, I'd like to get enough of a background to get a position as a front-end developer.
 
 ---
 
